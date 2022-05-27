@@ -1,0 +1,1 @@
+<h1>mostrar detalles de la tarea</h1>

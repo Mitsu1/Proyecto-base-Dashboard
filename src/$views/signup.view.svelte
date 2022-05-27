@@ -1,6 +1,6 @@
 <script>
 
-    import UserLogin from '../users/user.login.svelte'
+    import UserSignup from '../users/user.signup.svelte'
 
 </script>
 
@@ -8,8 +8,8 @@
     <div class="columns">
         <div class="column is-4">
             <div class="title">TODO List</div>
-            <div class="subtitle">Login</div>
-            <UserLogin />
+            <div class="subtitle">Sign up</div>
+            <UserSignup />
         </div>
     </div>
 </div>

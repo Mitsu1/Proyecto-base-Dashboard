@@ -1,3 +1,1 @@
-<div class="title">Home</div>
-
-
+<div class="title">VISTA HOME</div>

@@ -1,1 +1,1 @@
-<div class="title">Users page</div>
+<div class="title">VISTA USERS</div>
